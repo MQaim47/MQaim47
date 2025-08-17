@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Syed Qaim | CS Student<br>C++ & Python dev | Web enthusiast<br>Learning DSA & DBMS | Building cool projects
+💻 Syed Muhammad Qaim | CS Student<br>C++ & Python dev | Web enthusiast<br>Learning DSA & DBMS | Building cool projects
 
 
 ## 🌐 Socials:
